@@ -1,0 +1,17 @@
+.category-image {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    border: 3px solid white;
+}
+
+.category-card {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 1rem; /* adjust padding to fit content */
+    height: 80px; /* slightly taller than 60px to fit image & text */
+    width: 100%;
+    border-radius: 8px;
+    color: white;
+}
+
